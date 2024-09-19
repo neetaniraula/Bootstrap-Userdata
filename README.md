@@ -35,7 +35,8 @@ In cloud environments like AWS, **user data** is a mechanism to pass scripts or 
 - For SonarQube setup, use `sonar.sh` to automatically install Docker and run SonarQube in a container.
 - For Nexus setup, use `nexus.sh` to automatically install Docker and run Nexus Repository Manager in a container.
 
-Customization
+### Customization:
+
 Feel free to adjust or customize the scripts to fit your specific environment and requirements.
 
 
