@@ -38,5 +38,7 @@ In cloud environments like AWS, **user data** is a mechanism to pass scripts or 
 ### Customization:
 
 Feel free to adjust or customize the scripts to fit your specific environment and requirements.
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/54516140-de65-456b-8770-591fcda4016b">
+
 
 
